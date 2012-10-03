@@ -4,7 +4,7 @@
 
   <groupId>org.nm.jr</groupId>
   <artifactId>jr-cmis-extension</artifactId>
-  <version>0.5.0</version>
+  <version>0.5.1</version>
   <packaging>jar</packaging>
   <name>jr-cmis-extension</name>
   <url>http://code.google.com/p/jr-cmis-extension/</url>
@@ -27,6 +27,11 @@
 	<dependency>
 	    <groupId>net.sf.jasperreports</groupId>
 	    <artifactId>jasperreports</artifactId>
+	    <version>4.7.1</version>
+	</dependency> 
+	<dependency>
+	    <groupId>com.jaspersoft</groupId>
+	    <artifactId>ireport</artifactId>
 	    <version>4.7.1</version>
 	</dependency>
     <dependency>

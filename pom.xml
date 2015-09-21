@@ -2,9 +2,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>org.nm.jr</groupId>
+  <groupId>nl.cale.jasper</groupId>
   <artifactId>jr-cmis-extension</artifactId>
-  <version>0.5.1</version>
+  <version>0.6.0</version>
   <packaging>jar</packaging>
   <name>jr-cmis-extension</name>
   <url>http://code.google.com/p/jr-cmis-extension/</url>
@@ -27,13 +27,8 @@
 	<dependency>
 	    <groupId>net.sf.jasperreports</groupId>
 	    <artifactId>jasperreports</artifactId>
-	    <version>4.7.1</version>
+	    <version>6.1.0</version>
 	</dependency> 
-	<dependency>
-	    <groupId>com.jaspersoft</groupId>
-	    <artifactId>ireport</artifactId>
-	    <version>4.7.1</version>
-	</dependency>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
